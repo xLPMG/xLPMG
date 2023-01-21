@@ -10,7 +10,7 @@
 	<li>hardware/software codesign</li>
 </ul>
 
-<h2 align="left">Currently working with:</h2>
+<h2 align="left">Mostly working with:</h2>
 <h3 align="center">Backend</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
