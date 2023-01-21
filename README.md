@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&username=xLPMG" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app/?username=xLPMG&theme=onedark" />
 </div>
-
+<h2 align="left">Interests:</h2>
 <h2 align="left">Currently working with:</h2>
 
 <h3 align="center">Backend</h3>
