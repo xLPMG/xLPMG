@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/xLPMG/xLPMG/raw/main/logo-light.png#gh-light-mode-only">
-  <img src="https://github.com/xLPMG/xLPMG/raw/main/logo-dark.png#gh-dark-mode-only">
+  <img src="https://github.com/xLPMG/xLPMG/raw/main/logo-light.png#gh-light-mode-only" width="25%">
+  <img src="https://github.com/xLPMG/xLPMG/raw/main/logo-dark.png#gh-dark-mode-only" width="25%">
 </p>
 
 <h1 align="left">👋 hi!</h1>
