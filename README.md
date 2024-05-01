@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/xLPMG/xLPMG/raw/main/name.gif" alt="GIF spelling out xLPMG">
-  <img width="100%" height="50px" src="https://github.com/xLPMG/xLPMG/raw/main/vaporwave-floor.gif">
+  <img src="https://github.com/xLPMG/xLPMG/raw/main/logo-light.png#gh-light-mode-only">
+  <img src="https://github.com/xLPMG/xLPMG/raw/main/logo-dark.png#gh-dark-mode-only">
 </p>
 
 <h1 align="left">👋</h1>
